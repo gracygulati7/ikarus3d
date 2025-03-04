@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  color: white;
+}
+
+.title {
+  /* background: #222; */
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+}
